@@ -1,0 +1,4 @@
+# .gitignore
+# mongo data
+mongo-volume
+init-mongo
